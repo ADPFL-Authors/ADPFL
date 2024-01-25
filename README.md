@@ -1,4 +1,4 @@
-# ‘Wait-to-Aggregate’: Efficient Asynchronous Decentralized Personalized Federated Learning
+# Asynchronous & Decentralized Personalized Federated Learning based on a Conditional 'Sparse-to-Sparser' Scheme
 
 ## Running Environment:
 ![Python](https://img.shields.io/badge/Python-3.7-brightgreen.svg) 
